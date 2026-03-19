@@ -2,7 +2,7 @@
 
 > *"That's what she said."*  -Michael Scott, approximately 23 times across 9 seasons.
 
-This project analyses every instance of the iconic "That's What She Said" joke across all 9 seasons of The Office (US), exploring how the joke evolved over time, who said it, and what happened to it after Michael Scott left the show.
+This project analyses every instance of the iconic "That's What She Said" joke across all 9 seasons of The Office (US), exploring how the joke evolved, who said it, and what happened to it after Michael Scott left the show.
 
 Built as a portfolio project for the Google Professional Data Analytics Certificate using Python, Pandas, Matplotlib and Seaborn.
 
@@ -23,11 +23,11 @@ This analysis answers all of those questions using 54,626 lines of dialogue acro
 | **Total instances** | 34 confirmed TWSS across the whole series |
 | **Peak season** | Season 4 with 10 instances |
 | **Michael's share** | 23 out of 34 (68%) |
-| **Season 1 & 8** | Zero instances — S1 predates the joke, S8 reflects Michael's absence |
+| **Season 1 & 8** | Zero instances. S1 predates the joke, S8 reflects Michael's absence |
 | **Longest gap** | 33 episodes before Creed's callback in S9E5 |
 | **Final line** | Michael's very last TWSS in the series is in Dwight and Angela's wedding episode (S9E24) |
 
-> The trajectory of "That's What She Said" is essentially a proxy for Michael Scott's presence in the show. It rises with his confidence, peaks at his most charismatic, fades as the show matures, and disappears entirely when he leaves — only returning as a fond callback in the finale.
+> The trajectory of "That's What She Said" is essentially a proxy for Michael Scott's presence in the show. It rises with his confidence, peaks at his most charismatic, fades as the show matures, and disappears entirely when he leaves, only returning as a fond callback in the finale.
 
 ---
 
@@ -61,8 +61,8 @@ This analysis answers all of those questions using 54,626 lines of dialogue acro
 
 ## 🛠️ Tools & Libraries
 
-- **Python** — Pandas, Matplotlib, Seaborn
-- **Jupyter Notebook** — via VS Code
+- **Python**  Pandas, Matplotlib, Seaborn
+- **Jupyter Notebook**  via VS Code
 
 ---
 
